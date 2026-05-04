@@ -40,4 +40,5 @@ npm-debug.log*
 
 # Echo Masterclass specific
 whole_transcipt1&2.txt
+transcript_chunk_*.txt
 *.log
