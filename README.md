@@ -9,6 +9,11 @@
   [![Vapi](https://img.shields.io/badge/Vapi-Voice_AI-000000?style=flat-square)](https://vapi.ai/)
 </div>
 
+## 🔗 Live Deployments
+
+* **Admin Dashboard**: [neural-desk-ai-support-admin.vercel.app](https://neural-desk-ai-support-admin.vercel.app/)
+* **Chat Widget Demo**: [Live Chat Widget Demo](https://neural-desk-ai-support-engine-widge-gold.vercel.app/?organizationId=org_3DG9xz3ZR0L2pQyr4Pj9pxBnDEz)
+
 <br/>
 
 **NeuralDesk** is a production-grade, multi-tenant AI customer support platform engineered for high-scale B2B environments. Built with a focus on **Real-Time Data Synchronization**, **Retrieval-Augmented Generation (RAG)**, and **Stateless Multi-Tenancy**, NeuralDesk allows organizations to deploy autonomous AI agents trained on custom knowledge bases to any external website via a secure, conflict-free embed script.
@@ -119,13 +124,6 @@ pnpm dev
 ```
 - **Admin Dashboard**: `http://localhost:3000`
 - **Widget Playground**: `http://localhost:3001`
-
----
-
-## 🔗 Live Deployments
-
-* **Admin Dashboard**: [neural-desk-ai-support-admin.vercel.app](https://neural-desk-ai-support-admin.vercel.app/)
-* **Chat Widget Demo**: [Live Chat Widget Demo](https://neural-desk-ai-support-engine-widge-gold.vercel.app/?organizationId=org_3DG9xz3ZR0L2pQyr4Pj9pxBnDEz)
 
 ---
 
