@@ -9,7 +9,7 @@ export const Pricing = () => {
         This single component automatically fetches the 'Free' and 'Pro' 
         plans you just created in the Clerk Dashboard! 
       */}
-      <PricingTable for="organization" />
+      <PricingTable />
     </div>
   );
 };
