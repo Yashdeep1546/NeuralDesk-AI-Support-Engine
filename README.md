@@ -122,6 +122,13 @@ pnpm dev
 
 ---
 
+## 🔗 Live Deployments
+
+* **Admin Dashboard**: [neural-desk-ai-support-admin.vercel.app](https://neural-desk-ai-support-admin.vercel.app/)
+* **Chat Widget Demo**: [Live Chat Widget Demo](https://neural-desk-ai-support-engine-widge-gold.vercel.app/?organizationId=org_3DG9xz3ZR0L2pQyr4Pj9pxBnDEz)
+
+---
+
 ## 🛡️ Security & Observability
 
 - **Edge-Level Security**: Clerk middleware traps unauthenticated traffic at the Vercel Edge, preventing unauthorized compute consumption.
